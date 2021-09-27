@@ -1,7 +1,7 @@
 This is an Travelling Website 
 You can visti and booking by this site with spceial booking ofer
 this is an responsive website and also a flexible website
- live link : 
+ live link : https://agitated-bhaskara-061f85.netlify.app
 
 ### `npm run build` fails to minify
 
