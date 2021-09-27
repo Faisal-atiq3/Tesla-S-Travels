@@ -1,0 +1,16 @@
+.travel-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.product-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+    
+    /* border-right: 1px solid lightgray;
+    margin-right: 5px;
+    margin-left: 30px; */
+}

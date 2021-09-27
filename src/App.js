@@ -1,7 +1,8 @@
 
-import './App.css';
+
 import Header from './components/Header/Header';
-import Travel from './components/Header/Travel/Travel';
+import Travel from './components/Travel/Travel';
+
 
 function App() {
   return (

@@ -1,24 +1,5 @@
 [
-    { "id":1,
-      "name":"London",
-      "country":"United Kingdom",
-      "average_rating":4.5,
-      "photo":"https://cdn.roadgoat.com/uploads/photo/image/431/large_travel-guide-of-london-united-kingdom-original.jpg",
-      "Icon":"https://cdn.roadgoat.com/uploads/photo/image/431/avatar_travel-guide-of-london-united-kingdom-original.jpg",
-      "check_in_count":25000,
-      "price":3500,
-      "duration":"5 Days 6 Nights"
-    },
-    {"id":2,
-      "name":"Paris",
-      "country":"France",
-      "average_rating":4.8,
-      "photo":"https://cdn.roadgoat.com/uploads/photo/image/237/large_travel-guide-of-paris-france-original.jpg",
-      "Icon":"https://cdn.roadgoat.com/uploads/photo/image/237/avatar_travel-guide-of-paris-france-original.jpg",
-      "check_in_count":35000,
-      "price":4500,
-      "duration":"4 Days 5 Nights"
-    },
+    
     { "id":3,
       "name":"New York",
       "country":"USA",
@@ -105,5 +86,26 @@
       "check_in_count":25000,
       "price":2850,
       "duration":"6 Days 7 Nights"
+    },
+    { "id":1,
+      "name":"London",
+      "country":"United Kingdom",
+      "average_rating":4.5,
+      "photo":"https://cdn.roadgoat.com/uploads/photo/image/431/large_travel-guide-of-london-united-kingdom-original.jpg",
+      "Icon":"https://cdn.roadgoat.com/uploads/photo/image/431/avatar_travel-guide-of-london-united-kingdom-original.jpg",
+      "check_in_count":25000,
+      "price":3500,
+      "duration":"5 Days 6 Nights"
+    },
+    {"id":2,
+      "name":"Paris",
+      "country":"France",
+      "average_rating":4.8,
+      "photo":"https://cdn.roadgoat.com/uploads/photo/image/237/large_travel-guide-of-paris-france-original.jpg",
+      "Icon":"https://cdn.roadgoat.com/uploads/photo/image/237/avatar_travel-guide-of-paris-france-original.jpg",
+      "check_in_count":35000,
+      "price":4500,
+      "duration":"4 Days 5 Nights"
     }
+
   ]

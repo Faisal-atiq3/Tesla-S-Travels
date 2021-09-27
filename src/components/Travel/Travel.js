@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import Cart from '../../Cart/Cart';
-import Product from '../../Product/Product';
+import Cart from '../Cart/Cart';
+import Product from '../Product/Product';
 import './Travel.css'
 
 const Travel = () => {
@@ -20,7 +20,7 @@ const Travel = () => {
     return (
         <div className='travel-container'>
            <div className="product-container">
-               <h2>Products:{products.length}</h2>
+               
                {
                products.map(product=><Product 
                 key={product.key}
